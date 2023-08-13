@@ -1,0 +1,17 @@
+.inputFile {
+    display: none; /* Скрываем стандартный визуальный элемент input[type="file"] */
+}
+
+.customFileInput {
+    display: inline-block;
+    background-color: var(--translucent);
+    border: 1px solid var(--glass);
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.customFileInput:hover {
+    background-color: var(--white);
+}

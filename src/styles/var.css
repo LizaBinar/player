@@ -1,0 +1,16 @@
+:root {
+    --font-color: #000000;
+    --main-red: #151515;
+    --white: #f9f9f9;
+    --main-blue: #000000;
+    --translucent: rgba(255, 255, 255, 0.5);
+    --glass: rgba(0, 0, 0, 0);
+
+    --fast-animation: 0.3s ease;
+    --slow-animation: 0.6s ease;
+
+    --small-screen: 346px;
+    --medium-screen: 769px;
+
+    --font-family: Arial, sans-serif;
+}

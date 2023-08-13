@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    align-items: flex-end;
+    font-size: 8px;
+    gap: 16px;
+}
+
+.sliderContainer {
+    width: 100%;
+}
